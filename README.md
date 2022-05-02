@@ -14,4 +14,4 @@ async def main() -> None:
 if __name__ == '__main__':
 	asyncio.run(main())
 ```
-[example_output](https://github.com/Marseel-E/apimeme-py/apimeme/meme.jpeg)
+![example_output](https://github.com/Marseel-E/apimeme-py/blob/main/apimeme/meme.jpeg)
